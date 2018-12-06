@@ -1,0 +1,3 @@
+- ModelSim报错
+1. Error: Failure to obtain a Verilog simulation license.
+解决方法：重启虚拟机
